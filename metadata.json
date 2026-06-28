@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Cinematic AI Production Pipeline",
+  "description": "Professional collaborative production suite for cinematic storyboarding, AI script generation, Wan/LTX video prompt synthesis, real-time LUT color-grading, voiceover-lip sync, and rendering settings.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
